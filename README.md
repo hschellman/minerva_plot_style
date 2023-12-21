@@ -1,4 +1,4 @@
-# `dune_plot_style` - DUNE official plot styling tools
+# `minerva_plot_style` - MINERvA official plot styling tools
 
 This repository contains coding tools to help analyzers easily make plots adhering to the DUNE Plot Style documented at https://wiki.dunescience.org/wiki/DUNE_Plot_Styles.
 
